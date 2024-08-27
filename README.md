@@ -8,6 +8,11 @@
 
 ## Boxes Completed
 
+- [Lame](lame/lame-writeup.md)
+  - Difficulty: Easy
+  - OS: Linux
+  - Tags: CVE-2007-2447 (Samba)
+
 - [Shocker](shocker/shocker-writeup.md)
   - Difficulty: Easy
   - OS: Linux
