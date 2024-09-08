@@ -28,6 +28,8 @@ Results from the scanner shows that host is likely vulnerable to ms17-010, also 
 I've written a blogpost on it [here](https://medium.com/@jaydenxjayden/deep-dive-eternalblue-exploit-6b055dcd312e). <br>
 <img src="https://i.imgur.com/H7fqh9r.png" height="80%" width="80%"/> <br>
 
+## Exploit
+
 Search for the exploit within msfconsole, I found that there are a few results that matches, go through 1 by 1. <br>
 <img src="https://i.imgur.com/FNK2Moc.png" height="80%" width="80%"/> <br>
 
