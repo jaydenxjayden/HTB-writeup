@@ -17,5 +17,15 @@
   - Difficulty: Easy
   - OS: Linux
   - Tags: CVE (Shellshock)
+  
+- [Legacy](legacy/legacy-writeup.md)
+  - Difficulty: Easy
+  - OS: Windows
+  - Tags: CVE (Windows XP)
+ 
+- [Blue](blue/blue-writeup.md)
+  - Difficulty: Easy
+  - OS: Windows
+  - Tags: CVE (EternalBlue)
 
 More write-ups are coming soon...
